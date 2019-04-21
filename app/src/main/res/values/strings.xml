@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">viewgroups_sharedpref_notebook</string>
+    <string name="button_SaveNote">Сохранить</string>
+</resources>
